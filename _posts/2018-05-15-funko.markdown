@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Funko"
+img: RazielEvolvedSG3.jpg # Add image post (optional)
+date: 2018-05-15 12:55:00 +0300
+description: Funko Post
+tag: []
+---
+
+Raziel came about as a challenge to re imagine an existing character in a different way. This was a fun challenge for me because I had yet to try and sculpt wings. 
+
+I started with a digital sketch up for the concept I was going for.
+
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image1.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
