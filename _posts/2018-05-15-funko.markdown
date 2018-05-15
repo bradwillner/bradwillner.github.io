@@ -12,6 +12,6 @@ Raziel came about as a challenge to re imagine an existing character in a differ
 I started with a digital sketch up for the concept I was going for.
 
 <p align="center">
-	<img src="{{ '/assets/img/funko/venom v3 sg 3.png | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/funko/venom v3 sg 3.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
