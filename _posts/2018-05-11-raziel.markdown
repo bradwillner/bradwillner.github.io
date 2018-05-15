@@ -1,15 +1,89 @@
 ---
 layout: post
-title: "My first trip: The wonderful Himalayan"
-img: himalayan.jpg # Add image post (optional)
-date: 2017-07-03 12:55:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Blogging, Mountains]
+title: "Raziel"
+img: RazielEvolvedSG3.jpg # Add image post (optional)
+date: 2018-05-11 12:55:00 +0300
+description: Raziel Project
+tag: [ZBrush, 3D Printing]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+Raziel came about as a challenge to re imagine an existing character in a different way. This was a fun challenge for me because I had yet to try and sculpt wings. 
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+I started with a digital sketch up for the concept I was going for.
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image1.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+I was going for a organic creature who was stripped of clothing and armor and instead looked to be a weapon on it’s own.
+
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image2.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+The first phase was finding a face and head that had the feel i was going for, scary and intelligent, I then fleshed out the basic shapes of the body and the wings. 
+ I keep all my major anatomy on separate subtools and have several different versions to keep my work protected as I go. 
+
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image3.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image4.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+Adding details like poly paint, textures and veins as well as my own alpha I made for his chest design. I used dragon teeth as a IMM brush to give Raziel all the spikes over his body.
+
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image5.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image6.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image7.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+Here is a sketch toy plastic material I tested out that gave a great gloss to the model and gave it a wet almost slimey look.
+
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image8.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+I Merge all of my subtools to begin the rigging and posing process.
+
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image9.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+Once rigged I will iterate several different poses until I find one that feels good and is balanced for 3D printing.
+
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image10.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+I did one 3D print bigger than my build volume and had to slice and key the wings to attach to the body separately. The other print pictured above was printed as one piece at max volume size 140mm x 140mm. 
+
+I then prepped the model with white primer spray paint and after drying used a air brush to give the model a uniform color coat, and then used acrylic paint and a small detail brush to add the other colors by hand.
+
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image11.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image12.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image13.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
