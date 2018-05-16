@@ -7,11 +7,23 @@ description: Funko Post
 tag: []
 ---
 
-Here are a few characters done within the Funko style. 
+Here is Venom I did within the Funko style. 
 
-I started with a digital sketch up for the concept I was going for.
+I started with a digital sketch up for the concept I was going for. I went through three iterations, before landing on this one and was please with how it came out. 
 
 <p align="center">
 	<img src="{{ '/assets/img/venom_v3_concept.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+The first phase was finding a face and head that had the feel i was going for, scary and intelligent, I then fleshed out the basic shapes of the body and the wings. 
+ I keep all my major anatomy on separate subtools and have several different versions to keep my work protected as I go. 
+
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image3.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image4.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
