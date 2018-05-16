@@ -7,11 +7,11 @@ description: Funko Post
 tag: []
 ---
 
-Raziel came about as a challenge to re imagine an existing character in a different way. This was a fun challenge for me because I had yet to try and sculpt wings. 
+Here are a few characters done within the Funko style. 
 
 I started with a digital sketch up for the concept I was going for.
 
 <p align="center">
-	<img src="{{ '/assets/img/venom_v3_sg_3.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/venom_v3_concept.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
