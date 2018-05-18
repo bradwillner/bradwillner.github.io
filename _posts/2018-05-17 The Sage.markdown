@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Sage"
-img: sage_sg_1.png # Add image post (optional)
+img: sage_sg_2.png # Add image post (optional)
 date: 2018-05-11 12:55:00 +0300
 description: Sage project
 tag: [ZBrush, 3D Printing]
@@ -12,7 +12,7 @@ Raziel came about as a challenge to re imagine an existing character in a differ
 I started with a digital sketch up for the concept I was going for.
 
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image1.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/sage_sg_1.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
