@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Buff Squatch"
-img: /assets/img/Buff Squatchy colored.png # Add image post (optional)
+img:Buff Squatchy colored.png # Add image post (optional)
 date: 2018-05-15 12:55:00 +0300
 description: Buff Squatch
 tag: []
