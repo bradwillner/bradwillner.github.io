@@ -1,0 +1,89 @@
+---
+layout: post
+title: "The Sage"
+img: sage_sg_1.png # Add image post (optional)
+date: 2018-05-11 12:55:00 +0300
+description: Sage project
+tag: [ZBrush, 3D Printing]
+---
+
+Raziel came about as a challenge to re imagine an existing character in a different way. This was a fun challenge for me because I had yet to try and sculpt wings. 
+
+I started with a digital sketch up for the concept I was going for.
+
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image1.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+I was going for a organic creature who was stripped of clothing and armor and instead looked to be a weapon on it’s own.
+
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image2.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+The first phase was finding a face and head that had the feel i was going for, scary and intelligent, I then fleshed out the basic shapes of the body and the wings. 
+ I keep all my major anatomy on separate subtools and have several different versions to keep my work protected as I go. 
+
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image3.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image4.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+Adding details like poly paint, textures and veins as well as my own alpha I made for his chest design. I used dragon teeth as a IMM brush to give Raziel all the spikes over his body.
+
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image5.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image6.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image7.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+Here is a sketch toy plastic material I tested out that gave a great gloss to the model and gave it a wet almost slimey look.
+
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image8.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+I Merge all of my subtools to begin the rigging and posing process.
+
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image9.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+Once rigged I will iterate several different poses until I find one that feels good and is balanced for 3D printing.
+
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image10.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+I did one 3D print bigger than my build volume and had to slice and key the wings to attach to the body separately. The other print pictured above was printed as one piece at max volume size 140mm x 140mm. 
+
+I then prepped the model with white primer spray paint and after drying used a air brush to give the model a uniform color coat, and then used acrylic paint and a small detail brush to add the other colors by hand.
+
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image11.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image12.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+<p align="center">
+	<img src="{{ '/assets/img/raziel/image13.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
