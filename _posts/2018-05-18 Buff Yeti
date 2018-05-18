@@ -1,8 +1,8 @@
 layout: post
-title: "Funko"
-img: venom_v3_sg_3.png # Add image post (optional)
+title: "Buff Squatch"
+img: Buff Squatchy colored.png # Add image post (optional)
 date: 2018-05-15 12:55:00 +0300
-description: Funko Post
+description: Buff Squatch
 tag: []
 ---
 
@@ -11,9 +11,8 @@ Here is Venom I did within the Funko style.
 I started with a digital sketch up for the concept I was going for. I went through three iterations, before landing on this one and was please with how it came out. 
 
 <p align="center">
-	<img src="{{ '/assets/img/venom_v3_concept.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/Buff Squatchy colored.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
-The first phase was finding a face and head that had the feel i was going for, scary and intelligent, I then fleshed out the basic shapes of the body and the wings. 
- I keep all my major anatomy on separate subtools and have several different versions to keep my work protected as I go.
+A Fun Sculpt to make.
