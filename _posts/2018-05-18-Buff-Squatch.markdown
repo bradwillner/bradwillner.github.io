@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Buff Squatch"
 img: Buff Squatchy colored.png # Add image post (optional)
