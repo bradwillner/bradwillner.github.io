@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Funko"
-img: venom_v3_sg_3.png # Add image post (optional)
+title: "Funko Venom"
+img: venom_v3_sg_1.png # Add image post (optional)
 date: 2018-05-15 12:55:00 +0300
-description: Funko Post
+description: Funko Venom
 tag: []
 ---
 
@@ -20,7 +20,7 @@ The first phase was finding a face and head that had the feel i was going for, s
  I keep all my major anatomy on separate subtools and have several different versions to keep my work protected as I go. 
 
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image3.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/venom_v3_sg_1.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 <p align="center">
