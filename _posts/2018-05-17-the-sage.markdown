@@ -14,9 +14,9 @@ The Sage is a personal favorite of mine. an original design I did for a comic bo
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
-The Sage Beckons the elements to aid him on his journey.
+The Sage beckons the elements to aid him on his journey.
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image2.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/sage_sg_2.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
@@ -24,63 +24,54 @@ The first phase was finding a face and head that had the feel i was going for, s
  I keep all my major anatomy on separate subtools and have several different versions to keep my work protected as I go. 
 
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image3.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/sage_sg_3.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image4.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<img src="{{ '/assets/img/sage_sg_4.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
 Adding details like poly paint, textures and veins as well as my own alpha I made for his chest design. I used dragon teeth as a IMM brush to give Raziel all the spikes over his body.
 
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image5.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<img src="{{ '/assets/img/Sage_face_sg_1.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image6.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<img src="{{ '/assets/img/Sage_face_sg_2.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image7.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<img src="{{ '/assets/img/sage_af_sg_1.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+<p align="center">
+	<img src="{{ '/assets/img/sage_af_sg_2.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
 Here is a sketch toy plastic material I tested out that gave a great gloss to the model and gave it a wet almost slimey look.
 
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image8.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/sage_xpose.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
 I Merge all of my subtools to begin the rigging and posing process.
 
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image9.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<img src="{{ '/assets/img/sage_3d_print_1.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
 Once rigged I will iterate several different poses until I find one that feels good and is balanced for 3D printing.
 
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image10.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<img src="{{ '/assets/img/sage_3d_print_2.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
-I did one 3D print bigger than my build volume and had to slice and key the wings to attach to the body separately. The other print pictured above was printed as one piece at max volume size 140mm x 140mm. 
+Here is the painted final product.
 
-I then prepped the model with white primer spray paint and after drying used a air brush to give the model a uniform color coat, and then used acrylic paint and a small detail brush to add the other colors by hand.
 
-<p align="center">
-	<img src="{{ '/assets/img/raziel/image11.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
-	<!-- <figcaption>Caption</figcaption> -->
-</p>
-<p align="center">
-	<img src="{{ '/assets/img/raziel/image12.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
-	<!-- <figcaption>Caption</figcaption> -->
-</p>
-<p align="center">
-	<img src="{{ '/assets/img/raziel/image13.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
-	<!-- <figcaption>Caption</figcaption> -->
-</p>
