@@ -35,7 +35,7 @@ The first phase was finding a face and head that had the feel i was going for, s
 Adding details like poly paint, textures and veins as well as my own alpha I made for his chest design. I used dragon teeth as a IMM brush to give Raziel all the spikes over his body.
 
 <p align="center">
-	<img src="{{ '/assets/img/Sage_face_sg_1.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<img src="{{ '/assets/img/sage_face_sg_1.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 <p align="center">
