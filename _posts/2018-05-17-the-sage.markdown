@@ -7,17 +7,14 @@ description: Sage project
 tag: [ZBrush, 3D Printing]
 ---
 
-Raziel came about as a challenge to re imagine an existing character in a different way. This was a fun challenge for me because I had yet to try and sculpt wings. 
-
-I started with a digital sketch up for the concept I was going for.
+The Sage is a personal favorite of mine. an original design I did for a comic book and video game project. I have worked on this character more than most and he has taken on a life of his own.
 
 <p align="center">
 	<img src="{{ '/assets/img/sage_sg_1.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
-I was going for a organic creature who was stripped of clothing and armor and instead looked to be a weapon on it’s own.
-
+The Sage Beckons the elements to aid him on his journey.
 <p align="center">
 	<img src="{{ '/assets/img/raziel/image2.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
