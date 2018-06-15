@@ -30,3 +30,38 @@ A Fun Sculpt to make.
 	<img src="{{ '/assets/img/buff_squatch_ks_4.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
+
+<p align="center">
+	<img src="{{ '/assets/img/buff_squatchy_colored.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+<p align="center">
+	<img src="{{ '/assets/img/buff_squatch_mesh.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+<p align="center">
+	<img src="{{ '/assets/img/buff_squatch_sg_2.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+<p align="center">
+	<img src="{{ '/assets/img/buff_squatch_sg.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+<p align="center">
+	<img src="{{ '/assets/img/buff_squatch_sg_3.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+<p align="center">
+	<img src="{{ '/assets/img/buff_squatch_3d_print_1.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+<p align="center">
+	<img src="{{ '/assets/img/buff_squatch_3d_print_2.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
