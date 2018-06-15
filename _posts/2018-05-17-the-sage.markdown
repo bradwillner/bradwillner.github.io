@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Sage"
-img: sage_sg_2.png # Add image post (optional)
+img: sage_ks_1.png # Add image post (optional)
 date: 2018-05-11 12:55:00 +0300
 description: Sage project
 tag: [ZBrush, 3D Printing]
@@ -10,68 +10,69 @@ tag: [ZBrush, 3D Printing]
 The Sage is a personal favorite of mine. an original design I did for a comic book and video game project. I have worked on this character more than most and he has taken on a life of his own.
 
 <p align="center">
-	<img src="{{ '/assets/img/sage_sg_1.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/sage_ks_1.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
-The Sage beckons the elements to aid him on his journey.
+
 <p align="center">
-	<img src="{{ '/assets/img/sage_sg_2.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/sage_ks_2.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
-The first phase was finding a face and head that had the feel i was going for, scary and intelligent, I then fleshed out the basic shapes of the body and the wings. 
- I keep all my major anatomy on separate subtools and have several different versions to keep my work protected as I go. 
+ 
 
 <p align="center">
-	<img src="{{ '/assets/img/sage_sg_3.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/sage_ks_3.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 <p align="center">
-	<img src="{{ '/assets/img/sage_sg_4.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
-	<!-- <figcaption>Caption</figcaption> -->
-</p>
-
-Adding details like poly paint, textures and veins as well as my own alpha I made for his chest design. I used dragon teeth as a IMM brush to give Raziel all the spikes over his body.
-
-<p align="center">
-	<img src="{{ '/assets/img/sage_face_sg_1.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
-	<!-- <figcaption>Caption</figcaption> -->
-</p>
-<p align="center">
-	<img src="{{ '/assets/img/Sage_face_sg_2.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
-	<!-- <figcaption>Caption</figcaption> -->
-</p>
-<p align="center">
-	<img src="{{ '/assets/img/sage_af_sg_1.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
-	<!-- <figcaption>Caption</figcaption> -->
-</p>
-<p align="center">
-	<img src="{{ '/assets/img/sage_af_sg_2.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<img src="{{ '/assets/img/sage_ks_4.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
-Here is a sketch toy plastic material I tested out that gave a great gloss to the model and gave it a wet almost slimey look.
+
+<p align="center">
+	<img src="{{ '/assets/img/sage_sg_1.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+<p align="center">
+	<img src="{{ '/assets/img/Sage_sg_2.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+<p align="center">
+	<img src="{{ '/assets/img/sage_face_sg_2.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+<p align="center">
+	<img src="{{ '/assets/img/sage_af_sg.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+
+<p align="center">
+	<img src="{{ '/assets/img/sage_af_sg_2.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
 
 <p align="center">
 	<img src="{{ '/assets/img/sage_xpose.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
-I Merge all of my subtools to begin the rigging and posing process.
+Here is the painted final product.
 
 <p align="center">
 	<img src="{{ '/assets/img/sage_3d_print_1.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
-Once rigged I will iterate several different poses until I find one that feels good and is balanced for 3D printing.
 
 <p align="center">
 	<img src="{{ '/assets/img/sage_3d_print_2.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
-Here is the painted final product.
+
 
 
