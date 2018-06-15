@@ -56,3 +56,18 @@ tag: [ZBrush, 3D Printing]
 	<img src="{{ '/assets/img/shaman_sg_3.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
+
+<p align="center">
+	<img src="{{ '/assets/img/shaman_print_1.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+<p align="center">
+	<img src="{{ '/assets/img/shaman_print_2.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
+
+<p align="center">
+	<img src="{{ '/assets/img/shaman_print_3.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
