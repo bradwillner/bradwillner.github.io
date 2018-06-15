@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Satyr"
-img: satyr_ks_1.png # Add image post (optional)
+img: satyr_ks_2.png # Add image post (optional)
 date: 2018-05-11 12:55:00 +0300
 description: Satyr project
 tag: [ZBrush, 3D Printing]
@@ -10,14 +10,14 @@ tag: [ZBrush, 3D Printing]
 The Satyr has always been a fun mythical creature for me, so I wanted to give it a go.
 
 <p align="center">
-	<img src="{{ '/assets/img/satyr_ks_1.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/satyr_ks_2.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
 
 
 <p align="center">
-	<img src="{{ '/assets/img/satyr_ks_2.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/satyr_ks_1.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
