@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Raziel"
-img: raziel/image4.jpg # Add image post (optional)
+img: raziel_ks_10.png # Add image post (optional)
 date: 2018-05-11 12:55:00 +0300
 description: Raziel Project
 tag: [ZBrush, 3D Printing]
@@ -12,14 +12,14 @@ Raziel came about as a challenge to re imagine an existing character in a differ
 I started with a digital sketch up for the concept I was going for.
 
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image1.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/raziel_ks_10.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
 I was going for a organic creature who was stripped of clothing and armor and instead looked to be a weapon on it’s own.
 
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image2.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/raziel_ks_9.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
@@ -27,22 +27,22 @@ The first phase was finding a face and head that had the feel i was going for, s
  I keep all my major anatomy on separate subtools and have several different versions to keep my work protected as I go. 
 
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image3.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/raziel_ks_11.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image4.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<img src="{{ '/assets/img/raziel_ks_12.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
 Adding details like poly paint, textures and veins as well as my own alpha I made for his chest design. I used dragon teeth as a IMM brush to give Raziel all the spikes over his body.
 
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image5.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<img src="{{ '/assets/img/raziel_ks_7.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image6.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<img src="{{ '/assets/img/raziel_ks_8.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 <p align="center">
