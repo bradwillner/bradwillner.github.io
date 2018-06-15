@@ -61,14 +61,14 @@ Here is a sketch toy plastic material I tested out that gave a great gloss to th
 I Merge all of my subtools to begin the rigging and posing process.
 
 <p align="center">
-	<img src="{{ '/assets/img/sage_3d_print_1.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<img src="{{ '/assets/img/sage_3d_print_1.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
 Once rigged I will iterate several different poses until I find one that feels good and is balanced for 3D printing.
 
 <p align="center">
-	<img src="{{ '/assets/img/sage_3d_print_2.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<img src="{{ '/assets/img/sage_3d_print_2.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
