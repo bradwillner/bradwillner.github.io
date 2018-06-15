@@ -7,14 +7,13 @@ description: Buff Squatch
 tag: []
 ---
 
-This is a sculpt inspired by the Humble Bumble or Yeti.
+This is a sculpt inspired by the Humble Bumble or Yeti. I want to create more characters like this and call it the Buff series.A fun character to make.
 
 <p align="center">
 	<img src="{{ '/assets/img/buff_squatch_ks_1.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
-A Fun Sculpt to make.
 
 <p align="center">
 	<img src="{{ '/assets/img/buff_squatch_ks_2.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
