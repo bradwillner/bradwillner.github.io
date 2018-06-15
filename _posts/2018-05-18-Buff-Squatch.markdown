@@ -57,11 +57,11 @@ A Fun Sculpt to make.
 </p>
 
 <p align="center">
-	<img src="{{ '/assets/img/buff_squatch_3d_print_1.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/buff_squatch_3d_print_1.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
 <p align="center">
-	<img src="{{ '/assets/img/buff_squatch_3d_print_2.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/buff_squatch_3d_print_2.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
