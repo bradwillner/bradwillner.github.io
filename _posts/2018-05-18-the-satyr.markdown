@@ -7,7 +7,7 @@ description: Satyr project
 tag: [ZBrush, 3D Printing]
 ---
 
-The Satyr has always been a fubn mythical creature and this is what I came up with.
+The Satyr has always been a fun mythical creature for me, so I wanted to give it a go.
 
 <p align="center">
 	<img src="{{ '/assets/img/satyr_ks_1.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
