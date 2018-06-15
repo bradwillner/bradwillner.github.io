@@ -12,14 +12,14 @@ Raziel came about as a challenge to re imagine an existing character in a differ
 I started with a digital sketch up for the concept I was going for.
 
 <p align="center">
-	<img src="{{ '/assets/img/raziel_ks_10.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/Raz_green_red.jpg' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
 I was going for a organic creature who was stripped of clothing and armor and instead looked to be a weapon on it’s own.
 
 <p align="center">
-	<img src="{{ '/assets/img/raziel_ks_9.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/raz_sketch.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
@@ -27,16 +27,20 @@ The first phase was finding a face and head that had the feel i was going for, s
  I keep all my major anatomy on separate subtools and have several different versions to keep my work protected as I go. 
 
 <p align="center">
-	<img src="{{ '/assets/img/raziel_ks_11.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/raziel_ks_10.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 <p align="center">
-	<img src="{{ '/assets/img/raziel_ks_12.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<img src="{{ '/assets/img/raziel_ks_11.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
 Adding details like poly paint, textures and veins as well as my own alpha I made for his chest design. I used dragon teeth as a IMM brush to give Raziel all the spikes over his body.
 
+<p align="center">
+	<img src="{{ '/assets/img/raziel_ks_12.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<!-- <figcaption>Caption</figcaption> -->
+</p>
 <p align="center">
 	<img src="{{ '/assets/img/raziel_ks_7.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
@@ -45,14 +49,10 @@ Adding details like poly paint, textures and veins as well as my own alpha I mad
 	<img src="{{ '/assets/img/raziel_ks_8.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
-<p align="center">
-	<img src="{{ '/assets/img/raz_sketch.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
-	<!-- <figcaption>Caption</figcaption> -->
-</p>
 
 
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image8.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
+	<img src="{{ '/assets/img/raziel_ks_9.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
