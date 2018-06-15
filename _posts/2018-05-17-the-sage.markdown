@@ -37,11 +37,11 @@ The Sage is a personal favorite of mine. an original design I did for a comic bo
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 <p align="center">
-	<img src="{{ '/assets/img/sage_sg_2.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<img src="{{ '/assets/img/sage_sg_3.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 <p align="center">
-	<img src="{{ '/assets/img/Sage_face_sg_2.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<img src="{{ '/assets/img/sage_sg_4.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 <p align="center">
