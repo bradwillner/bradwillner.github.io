@@ -46,11 +46,10 @@ Adding details like poly paint, textures and veins as well as my own alpha I mad
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 <p align="center">
-	<img src="{{ '/assets/img/raziel/image7.jpg' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
+	<img src="{{ '/assets/img/raz_sketch.png' | prepend: site.baseurl }}" alt=""  style="width: 90%; height: 90%"> 
 	<!-- <figcaption>Caption</figcaption> -->
 </p>
 
-Here is a sketch toy plastic material I tested out that gave a great gloss to the model and gave it a wet almost slimey look.
 
 <p align="center">
 	<img src="{{ '/assets/img/raziel/image8.png' | prepend: site.baseurl }}" alt=""  style="width: 65%; height: 65%"> 
